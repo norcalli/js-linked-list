@@ -1,4 +1,5 @@
 # Linked List
+![](https://travis-ci.org/norcalli/js-linked-list.svg?branch=master)
 
 # Usage
 
