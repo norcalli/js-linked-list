@@ -1,0 +1,31 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "Doubly linked list using a sentinel node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/norcalli/js-linked-list"
+  },
+  "keywords": [
+    "javascript",
+    "linked",
+    "list",
+    "linked-list",
+    "doubly"
+  ],
+  "devDependencies": {
+    "LiveScript": "1.2.x",
+    "mocha": "*",
+    "chai": "*"
+  },
+  "author": "Ashkan Kiani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norcalli/js-linked-list/issues"
+  },
+  "homepage": "https://github.com/norcalli/js-linked-list"
+}
